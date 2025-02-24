@@ -7,3 +7,5 @@ Hello, welcome to my collection of Machine Learning projects. The following proj
 4. Finance Data( Bank Stocks) Exploratory Data Analysis using visualization libraries.
 5. Linear Regression Modelling to compare the efficacy of different business/branding strategies of a Company on its Yearly Revenues, so as to suggest optimization of bussiness     strategy. (Libraries - sklearn, statsmodel,numpy, pandas, seaborn, matplotlib)
 6. Logistic Regression Classification of Customers Clicking on an Advertisement or not based on given features. (Libraries - sklearn,numpy,pandas)
+7. Classification of Countries status as Developed or Developing using K-Nearest Neighbours and making predictions for the effectiveness of National Health Policy Targets 2017 and New Education Policy 2020 to push India to Developed Country Status.
+   
