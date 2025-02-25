@@ -9,4 +9,5 @@ Hello, welcome to my collection of Machine Learning projects. The following proj
 6. Logistic Regression Classification of Customers Clicking on an Advertisement or not based on given features. (Libraries - sklearn,numpy,pandas)
 7. Classification of Countries status as Developed or Developing using K-Nearest Neighbours and making predictions for the effectiveness of National Health Policy Targets 2017 and New Education Policy 2020 to push India to Developed Country Status.
 8. Classification of the Default Status of Lending Club borrowers based on lending features using Random Trees and Random Forest
+9. Classification of countries based on their per Capita GDP status (Low Income, Lower Middle, Upper Middle, High) with the given features using Support Vector Machine ( Linear Discriminant Analysis)
    
