@@ -11,4 +11,5 @@ Hello, welcome to my collection of Machine Learning projects. The following proj
 8. Classification of the Default Status of Lending Club borrowers based on lending features using Random Trees and Random Forest
 9. Classification of countries based on their per Capita GDP status (Low Income, Lower Middle, Upper Middle, High) with the given features using Support Vector Machine ( Linear Discriminant Analysis)
 10. KMeans Clustering to cluster Universities into to two groups, Private and Public. Afterwards, we would evaluate the Clusters using ANOVA and silhouette score.( Libraries - sklearn, scipy, numpy,pandas)
+11. Natural Language Processing (NLP) to classify the Customer Ratings based on the Text Reviews. Later comparing the accuracy of NLP results with ANN (sklearn, tensorflow, numpy, pandas)
    
